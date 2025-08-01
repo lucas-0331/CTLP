@@ -12,7 +12,7 @@ const Sobre = () => {
       <section className="bg-gradient-primary py-16">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <img
-            src="/images/7bfb7414-9607-4852-b964-de2fcbee5d0d.png"
+            src="./images/7bfb7414-9607-4852-b964-de2fcbee5d0d.png"
             alt="LCS Logo"
             className="w-24 h-24 rounded-full mx-auto mb-6 shadow-glow"
           />

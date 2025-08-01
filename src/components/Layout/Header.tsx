@@ -26,7 +26,7 @@ const Header = () => {
         <div className="flex justify-between items-center h-16">
           <Link to="/" className="flex items-center space-x-3">
             <img
-              src="/images/7bfb7414-9607-4852-b964-de2fcbee5d0d.png"
+              src="./images/7bfb7414-9607-4852-b964-de2fcbee5d0d.png"
               alt="LCS Logo"
               className="w-10 h-10 rounded-full"
             />
